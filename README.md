@@ -2,6 +2,7 @@
 Exploratory Data Analysis on Sample Superstore
 
 To perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+
 ● Trying to find out the weak areas as a business manager and where we can work to make more profit
 
 ● Business problems that can be derived by exploring the data
